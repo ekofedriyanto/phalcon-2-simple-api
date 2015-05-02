@@ -1,0 +1,4 @@
+*.log
+.phpintel/*
+.idea/*
+__init__.py
